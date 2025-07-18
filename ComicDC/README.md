@@ -60,7 +60,7 @@
 
 - 🌐 GitHub: [dongdoidoithay/Release - ComicEn](https://github.com/dongdoidoithay/Release/tree/main/ComicEn)  
 - 📦 Download APK: [app-release.apk](https://github.com/dongdoidoithay/Release/raw/main/ComicEn/comic-release.apk)  
-- 📦 Download APK for Amazon: [app-release.apk](https://github.com/dongdoidoithay/Release/raw/main/ComicEn/comic-release.apk)
+- 📦 Download APK for Amazon: [app-release.apk](https://www.amazon.com/gp/product/B0FHG8C3TM)
 
 ---
 
